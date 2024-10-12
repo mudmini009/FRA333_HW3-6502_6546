@@ -149,10 +149,6 @@ This equation represents the inverse dynamics of the robotic arm, where the tran
 
    The computed joint efforts (`τ`) tell you how much torque each joint must exert to achieve the desired force at the end effector. This information is crucial when programming the robot to handle various tasks, such as picking up objects or applying controlled force, as it helps determine the required joint actions under specific loading conditions. For instance, if the wrench input (`w`) represents a high force along the z-axis (`Fz`), the joint torques computed will indicate how much each joint needs to work to counteract or produce that force, ensuring the robotic arm can carry out its intended operation safely and accurately.
 
-# References
-
-- [The Ultimate Guide to Jacobian Matrices for Robotics](https://automaticaddison.com/the-ultimate-guide-to-jacobian-matrices-for-robotics/)
-- [Introduction to Robot Kinematics and the Jacobian](https://www.youtube.com/watch?v=exG5zOAm7pA&list=PLHnZZE5j6C65J4-1t-azzmceXevAtWbRf&index=11)
 
 Kantinan Laosuwan (ID: 65340500002)  
 Pollapaat Suttimala (ID: 65340500046)
