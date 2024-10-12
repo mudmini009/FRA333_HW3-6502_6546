@@ -155,4 +155,4 @@ This equation represents the inverse dynamics of the robotic arm, where the tran
 - [Introduction to Robot Kinematics and the Jacobian](https://www.youtube.com/watch?v=exG5zOAm7pA&list=PLHnZZE5j6C65J4-1t-azzmceXevAtWbRf&index=11)
 
 Kantinan Laosuwan (ID: 65340500002)  
-Phonlaphat Suttimala (ID: 65340500046)
+Pollapaat Suttimala (ID: 65340500046)
